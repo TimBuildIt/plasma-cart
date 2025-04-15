@@ -6,4 +6,4 @@ Handle and drawer front made from 1/2 uhmw.
 Import Dxf's with Metric Scaling
 
 
-![plasma cart] (https://github.com/TimBuildIt/plasma-cart/blob/main/thumbnail.jpg)
+![plasma cart](https://github.com/TimBuildIt/plasma-cart/blob/main/thumbnail.jpg)
